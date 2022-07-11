@@ -1,4 +1,4 @@
 ### Hi there 👋
-I have 8 years of experience in web development.
+I have 5 years of experience in web development.
 I'm very familiar with React, Next, Vue, Nuxt, Laravel and Express.
 I started blockchain development 3 years ago.
